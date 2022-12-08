@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(224, 197, 146);
+}
+hr{
+    border-style:dotted none none;
+    width:10%;
+    border-color: rgb(156, 68, 68);
+    border-width: 5px;
+
+}
+img{
+    height: 300px;
+}
+h3{
+    color: rgb(160, 65, 65);
+}
+h1{
+    color: rgb(156, 68, 68); ;  
+}
